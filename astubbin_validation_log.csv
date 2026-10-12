@@ -1,0 +1,51 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus;KeyEvidence
+activitymonitoring_biobankaccelerometeranalysis;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Lots of commits after longest gap
+alpscore_alpscore;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Acitivity has dropped substantially but there still have been commits after longest gap
+bluescarni_mppp;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Commits present after longest gap
+chembl_fpsim2;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Commit spikes after longest gap
+cnes_cars;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Continouos commits
+mivion_swisseph;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Commit spikes after longest gap
+nasa-pds_harvest;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Lots of commits after longest gap
+niklastr_promise;pmarino;astubbin;HasRecovered;Yes;No;No;Really only one period of commits. Hard to say it has recovered.
+sinzlab_nndichromacy;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Commits present after longest gap
+ubarsc_python-fmask;pmarino;astubbin;HasRecovered;Yes;Yes;Yes;Commits present after longest gap
+activitymonitoring_biobankaccelerometeranalysis;pmarino;astubbin;WhyRecovered;Returned with a major upgrade adding activity classification, refactoring, documentation, and utilities.;Added activity classification models and refactored the codebase for Linux, dropping legacy Windows/GUI support.;Yes;Post-gap commit messages outline these changes/additions
+alpscore_alpscore;pmarino;astubbin;WhyRecovered;Returned for CI, dependency, GTest, Eigen, and CMake modernization.;Updated build dependencies (Eigen3, CMake 4.0, system GTest), added GitHub Actions CI, and re-licensed under MIT.;Yes;Post-gap commit messages outline these changes/additions
+bluescarni_mppp;pmarino;astubbin;WhyRecovered;Returned with CI and build-system cleanup.;Restored the CircleCI pipeline, integrated Ninja build, and updated cross-platform documentation.;Yes;Post-gap commit messages outline these changes/additions
+chembl_fpsim2;pmarino;astubbin;WhyRecovered;Returned to address bugs, Python 3.10/Windows compatibility, CI, and setup changes.;Fixed Python 3.10 and Windows build bugs, updated CI images, and ensured MySQL/SQLAlchemy compatibility.;Yes;Post-gap commit messages outline these changes/additions
+cnes_cars;pmarino;astubbin;WhyRecovered;Development resumed with pylint, Dockerfile, dependency, and CI fixes.;Fixed Pylint errors, updated Ubuntu Docker containers, and pinned temporary versions to fix cluster dependency conflicts.;Yes;Post-gap commit messages outline these changes/additions
+mivion_swisseph;pmarino;astubbin;WhyRecovered;Returned with documentation, license, dependency cleanup, and Swisseph 2.0.0 work.;Upgraded to Swiss Ephemeris 2.0.0, cleaned legacy dependencies, updated licensing docs, and fixed broken links.;Yes;Post-gap commit messages outline these changes/additions
+nasa-pds_harvest;pmarino;astubbin;WhyRecovered;Returned for Build 8a release work, Build 8b development, and new metadata features.;Released Build 8a through 9a, expanding metadata extraction rules and aligning docs with Java 1.8.;Yes;Post-gap commit messages outline these changes/additions
+niklastr_promise;pmarino;astubbin;WhyRecovered;Only a README update followed the gap, so evidence of renewed development is limited.;Updated README.md following a major restructuring of data directories and segmentation workflows.;Yes;Post-gap commit messages outline these changes/additions
+sinzlab_nndichromacy;pmarino;astubbin;WhyRecovered;Returned with model weights, training changes, and new model features.;Added pre-trained weights for color/V1 surround models, integrated LearnedShifter, and added new training utilities.;Yes;Post-gap commit messages outline these changes/additions
+ubarsc_python-fmask;pmarino;astubbin;WhyRecovered;Returned for ESA radiometric-offset support, version 0.5.6, metadata fixes, and build maintenance.;Optimized classification logic, added Python scripting and Sentinel-2 offset support, updated metadata parsing, bumped versions, and modernized ReadTheDocs builds.;Yes;Post-gap commit messages outline these changes/additions
+activitymonitoring_biobankaccelerometeranalysis;pmarino;astubbin;ActivityPattern;Irregular;Irregular;Yes;Random spikes in commits
+alpscore_alpscore;pmarino;astubbin;ActivityPattern;Declining;Declining;Yes;Recent decrease in commits
+bluescarni_mppp;pmarino;astubbin;ActivityPattern;Irregular;Declining;No;General declining trend in commits
+chembl_fpsim2;pmarino;astubbin;ActivityPattern;Declining;Irregular;No;Random spikes make it appear more irregular
+cnes_cars;pmarino;astubbin;ActivityPattern;Rising;Rising;Yes;Clear increase on commits over time
+mivion_swisseph;pmarino;astubbin;ActivityPattern;Declining;Irregular;No;Graph appears as commit spikes
+nasa-pds_harvest;pmarino;astubbin;ActivityPattern;Rising;Rising;Yes;Clear increase over time
+niklastr_promise;pmarino;astubbin;ActivityPattern;Declining;Declining;Yes;Appears as one spike in commits so can be considered declining
+sinzlab_nndichromacy;pmarino;astubbin;ActivityPattern;U-Shaped;Declining;No;Very little commit activity since 2022
+ubarsc_python-fmask;pmarino;astubbin;ActivityPattern;Steady;Steady;Yes;Pretty steady devlopment with some commit gaps
+activitymonitoring_biobankaccelerometeranalysis;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+alpscore_alpscore;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+bluescarni_mppp;pmarino;astubbin;Currentstatus;Inactive;Inactive;Yes;No commits within past 6 months
+chembl_fpsim2;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+cnes_cars;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+mivion_swisseph;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+nasa-pds_harvest;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+niklastr_promise;pmarino;astubbin;Currentstatus;Active;Active;Yes;Commits within past 6 months
+sinzlab_nndichromacy;pmarino;astubbin;Currentstatus;Inactive;Inactive;Yes;No commits within past 6 months
+ubarsc_python-fmask;pmarino;astubbin;Currentstatus;Inactive;Inactive;Yes;No commits within past 6 months
+activitymonitoring_biobankaccelerometeranalysis;pmarino;astubbin;RecentThemes;Bug fixes:Feature development;Bug fixes:Feature development;Yes;Recent commits show bug fixes and new features
+alpscore_alpscore;pmarino;astubbin;RecentThemes;Bug fixes:Dependency updates;Bug fixes:Dependency updates;Yes;Commits mention bug fixes and new dependencies
+bluescarni_mppp;pmarino;astubbin;RecentThemes;Bug fixes:Release;Bug fixes:Release;Yes;Commits mention bug fixes and new releases
+chembl_fpsim2;pmarino;astubbin;RecentThemes;Feature development:Dependency updates;Feature development:Dependency updates;Yes;Commits show new features and dependencies
+cnes_cars;pmarino;astubbin;RecentThemes;Bug fixes:Feature development;Feature development:Bug fixes;Yes;Commits show new features and bug fixes
+mivion_swisseph;pmarino;astubbin;RecentThemes;Dependency updates:Automated bot contributions;Dependency updates:Automated bot contributions;Yes;Bot commits and dependency updates in commits
+nasa-pds_harvest;pmarino;astubbin;RecentThemes;Dependency updates:Feature development;Documentation:Release;No;Commits mention documentation and release document updates
+niklastr_promise;pmarino;astubbin;RecentThemes;Feature development:Other;Feature devlopment:Documentation updates;No;Documenatation and links are updated in addition to new features in commits
+sinzlab_nndichromacy;pmarino;astubbin;RecentThemes;Feature development:Dependency updates;Documentation updates:Feature development;No;Commits show documentation updates
+ubarsc_python-fmask;pmarino;astubbin;RecentThemes;Documentation updates:Bug fixes;Documentation updates:Bug fixes;Yes;Documentation and feature devlopment described in commits
