@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+ActivityPattern;60.0;100.0;0.45;1.0;4;4;1.0;Terminology mismatches on commit spikes vs. declining trends.
+Currentstatus;100.0;100.0;1.0;1.0;0;0;NA;Clear activity cutoff rule.
+HasRecovered;90.0;100.0;0.0;1.0;1;1;1.0;Different opinions around single isolated post-gap commits.
+RecentThemes;70.0;100.0;NA;NA;3;3;1.0;Required compromise on secondary themes.
+WhyRecovered;100.0;100.0;NA;NA;0;0;NA;High agreement after examining commit messages.

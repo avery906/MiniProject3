@@ -1,0 +1,9 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;AdjudicatedValue;ResolutionType(AuthorKept/ValidatorKept/Compromise);PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
+sinzlab_nndichromacy;pmarino;astubbin;ActivityPattern;U-Shaped;Declining;Declining;ValidatorKept;Yes;Very little commit activity since 2022;Set to val
+mivion_swisseph;pmarino;astubbin;ActivityPattern;Declining;Irregular;Irregular;ValidatorKept;Yes;Graph appears as commit spikes;Set to val
+chembl_fpsim2;pmarino;astubbin;ActivityPattern;Declining;Irregular;Irregular;ValidatorKept;Yes;Random spikes make it appear more irregular;Set to val
+bluescarni_mppp;pmarino;astubbin;ActivityPattern;Irregular;Declining;Declining;ValidatorKept;Yes;General declining trend in commits;Set to val
+niklastr_promise;pmarino;astubbin;HasRecovered;Yes;No;No;ValidatorKept;Yes;Really only one period of commits. Hard to say it has recovered.;Set to val
+sinzlab_nndichromacy;pmarino;astubbin;RecentThemes;Feature development:Dependency updates;Documentation updates:Feature development;Documentation updates:Feature devlopment;ValidatorKept;Yes;Commits show documentation updates;Set to val
+niklastr_promise;pmarino;astubbin;RecentThemes;Feature development:Other;Feature devlopment:Documentation updates;Feature development:Other;Compromise;Yes;Documenatation and links are updated in addition to new features in commits;Compromise
+nasa-pds_harvest;pmarino;astubbin;RecentThemes;Dependency updates:Feature development;Documentation:Release;Documentation updates:Bug fixes;Compromise;Yes;Commits mention documentation and release document updates;Compromise
